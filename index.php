@@ -11,3 +11,8 @@ echo 3;
 echo 'merge';
 
 echo 4 . 'merge';
+
+$arr = [
+    'dev'
+];
+var_dump($arr);
