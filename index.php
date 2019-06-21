@@ -10,4 +10,4 @@ echo 3;
 
 echo 'merge';
 
-echo 4;
+echo 4 . 'merge';
